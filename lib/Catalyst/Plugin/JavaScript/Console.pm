@@ -33,7 +33,7 @@ our $VERSION = '0.01';
 
     ...
 
-    [% c.console.output %]
+    [%= c.console.output %]
 
 =cut
 
@@ -85,9 +85,6 @@ Akzhan Abdulin, C<< <akzhan.abdulin at gmail.com> >>
 Please report any bugs or feature requests to C<bug-catalyst-plugin-javascript-console at rt.cpan.org>, or through
 the web interface at L<http://rt.cpan.org/NoAuth/ReportBug.html?Queue=Catalyst-Plugin-JavaScript-Console>.  I will be notified, and then you'll
 automatically be notified of progress on your bug as I make changes.
-
-
-
 
 =head1 SUPPORT
 

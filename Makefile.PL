@@ -16,7 +16,7 @@ resources (
    homepage   => 'https://github.com/regru/Catalyst-Plugin-JavaScript-Console',
    #IRC        => 'irc://irc.perl.org/#Catalyst-Plugin-JavaScript-Console',
    license    => 'http://www.perlfoundation.org/artistic_license_2_0',
-   repository => 'git@github.com:regru/Catalyst-Plugin-JavaScript-Console.git',
+   repository => 'git://github.com/regru/Catalyst-Plugin-JavaScript-Console.git',
    bugtracker => 'http://rt.cpan.org/NoAuth/Bugs.html?Dist=Catalyst-Plugin-JavaScript-Console',
 );
 
